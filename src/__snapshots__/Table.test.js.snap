@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div>
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="MuiFormControl-root-91"
+      >
+        <div
+          className="MuiInputBase-root-108 MuiInput-root-95 MuiInput-underline-99 MuiInputBase-formControl-109 MuiInput-formControl-96"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            className="MuiInputBase-input-118 MuiInput-input-103"
+            disabled={false}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+            value="add something"
+          />
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root-151 MuiButton-root-125 MuiButton-text-127 MuiButton-flat-130"
+        disabled={false}
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex="0"
+        type="submit"
+      >
+        <span
+          className="MuiButton-label-126"
+        >
+          Add
+        </span>
+        <span
+          className="MuiTouchRipple-root-174"
+        />
+      </button>
+    </form>
+  </div>
+  <div>
+    <table
+      className="MuiTable-root-154"
+    >
+      <thead
+        className="MuiTableHead-root-155"
+      >
+        <tr
+          className="MuiTableRow-root-156 MuiTableRow-head-159"
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root-161 MuiTableCell-head-162"
+            scope="col"
+          >
+            List:
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root-173"
+      >
+        <tr
+          className="MuiTableRow-root-156"
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-161 MuiTableCell-body-163"
+            onClick={[Function]}
+          />
+        </tr>
+        <tr
+          className="MuiTableRow-root-156"
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-161 MuiTableCell-body-163"
+            onClick={[Function]}
+          />
+        </tr>
+        <tr
+          className="MuiTableRow-root-156"
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-161 MuiTableCell-body-163"
+            onClick={[Function]}
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
